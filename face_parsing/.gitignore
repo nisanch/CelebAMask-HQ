@@ -1,0 +1,5 @@
+*.pyc
+runs/
+Data_preprocessing/
+test_results/
+test_color_visualize/
